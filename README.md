@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **zx8086/zx8086** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
